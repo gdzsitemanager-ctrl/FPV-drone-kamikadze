@@ -1,0 +1,8 @@
+{
+  "name": "ПАНЦИРЬ: FPV",
+  "description": "Боевой симулятор FPV дронов-камикадзе: прорыв ПВО Панцирь, физика полета, кастомизация боевых частей и мультиплеер арена.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
